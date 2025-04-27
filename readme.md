@@ -12,7 +12,7 @@ This project trains a small neural network to classify images from the MNIST han
 - Testing the trained model on user generated test images (PNG) of handwritten digits of any size and colour
 
 ## Structure
-- **model.py**: Complete script for data prep, model creation, training, evaluation, and plotting.  
+- **model.py**: Complete script for data prep, model creation, training, evaluation, and plotting.  Saves trained model to .h5 file.
 - **load_model_predict_one_digit.py** Script for preprocessing the user generated test images and making the prediction using the trained model.
 - **loss_curves.png**: Sample plot showing training and validation loss over epochs.
 - **my_digit6_rotated_lightb.png**: User-generated test digit image
