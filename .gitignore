@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+env/
+*.h5
+ipynb_checkpoints/
+backup/
+orig/
+*.ipynb
+PNGs/
